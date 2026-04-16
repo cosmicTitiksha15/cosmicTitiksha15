@@ -13,9 +13,11 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=cosmicTitiksha15&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## ⭐ GSSoC Contributor 2026
-<img width="200" height="200" alt="open" src="https://github.com/user-attachments/assets/f0452729-3a54-439b-9a76-60e7fa0bcf60" />
-<img width="200" height="200" alt="ai" src="https://github.com/user-attachments/assets/e912c683-1625-4796-8fd0-cb5325cedeb5" />
-<img width="200" height="200" alt="contributor" src="https://github.com/user-attachments/assets/13d3eded-bfe0-4eb7-99f1-f869363995d5" />
+<a href="https://gssoc.girlscript.org/profile/1f7b76a7-1916-4bda-b456-ad2fa6c6f56e"><img width="200" height="200" alt="open" src="https://github.com/user-attachments/assets/f0452729-3a54-439b-9a76-60e7fa0bcf60" /></a>
+<a href="https://gssoc.girlscript.org/profile/1f7b76a7-1916-4bda-b456-ad2fa6c6f56e">
+<img width="200" height="200" alt="ai" src="https://github.com/user-attachments/assets/e912c683-1625-4796-8fd0-cb5325cedeb5" /></a>
+<a href="https://gssoc.girlscript.org/profile/1f7b76a7-1916-4bda-b456-ad2fa6c6f56e">
+<img width="200" height="200" alt="contributor" src="https://github.com/user-attachments/assets/13d3eded-bfe0-4eb7-99f1-f869363995d5" /></a>
 
 
 ### ✍️ Random Dev Quote
