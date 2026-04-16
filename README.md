@@ -12,8 +12,11 @@ I am looking forward to explore the barriers over what code can do.<br>Looking f
 ![](https://streak-stats.demolab.com/?user=cosmicTitiksha15&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=cosmicTitiksha15&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cosmicTitiksha15&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## ⭐ GSSoC Contributor 2026
+<img width="200" height="200" alt="open" src="https://github.com/user-attachments/assets/f0452729-3a54-439b-9a76-60e7fa0bcf60" />
+<img width="200" height="200" alt="ai" src="https://github.com/user-attachments/assets/e912c683-1625-4796-8fd0-cb5325cedeb5" />
+<img width="200" height="200" alt="contributor" src="https://github.com/user-attachments/assets/13d3eded-bfe0-4eb7-99f1-f869363995d5" />
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
