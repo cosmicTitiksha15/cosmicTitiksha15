@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am looking forward to explore the barriers over what code can do.<br>Looking for Research projects on - AI for Healthcare.<br>Currently integrating Agentic AI with backend to build extremely good tools.<br>'Python' is my language of choice.<br>Exploring what I can really do.
+✨ I am looking forward to explore the barriers over what code can do.<br>🌌 Looking for Research projects on - AI for Healthcare.<br>🌟 Currently integrating Agentic AI with backend to build extremely good tools.<br>🌠 'Python' is my language of choice.<br>🤩 Exploring what I can really do.
 
 
 ## 🌐 Socials:
